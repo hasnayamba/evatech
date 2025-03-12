@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../wamp64/www/EVA-TECH/assets"
+		},
+		{
+			"path": "../../../../../wamp64/www/EVA-TECH/email-recus"
+		},
+		{
+			"path": "../../../../../wamp64/www/EVA-TECH/Images"
+		},
+		{
+			"path": "../../../../../wamp64/www/EVA-TECH/scripts"
+		},
+		{
+			"path": "../../../../../wamp64/www/EVA-TECH/vendor"
+		}
+	],
+	"settings": {}
+}
